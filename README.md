@@ -1,0 +1,3 @@
+# Sample Navigation App using Aurelia
+
+Sample navigation app using the Aurelia framework...
